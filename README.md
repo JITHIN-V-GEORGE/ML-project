@@ -1,5 +1,5 @@
 # Diamond Price Prediction Analysis Using Regression
-![diamond image](./diamond.JPG)
+![diamond image](./diamond.jpg)
 
 ## Objective  
 The objective of this project is to analyze diamond characteristics and develop a predictive model to estimate the prices of diamonds using regression techniques.
