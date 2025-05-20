@@ -88,7 +88,7 @@ The dataset contains 53,940 rows and 10 variables, providing information on vari
 
 ## Contact  
 For queries, feel free to reach out:  
-**Email**: [Your Email Address]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Email**: jithinvgeorge19@gmail.com 
+**LinkedIn**: https://www.linkedin.com/in/jithin-v-george-306468269/ 
 
 ---  
